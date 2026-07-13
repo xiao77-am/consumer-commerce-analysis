@@ -139,9 +139,11 @@
 ![退款分析](images/refund_analysis.png)
 
 
----
+
 
 ## 项目结构
+
+```text
 consumer-commerce-analysis
 │
 ├── notebooks
@@ -158,7 +160,8 @@ consumer-commerce-analysis
 │
 ├── README.md
 └── requirements.txt
----
+```
+
 
 ## 项目总结
 
