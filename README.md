@@ -155,6 +155,7 @@ consumer-commerce-analysis
 │   ├── product_gmv.png
 │   ├── batch_gmv.png
 │   ├── daily_gmv_trend.png
+│   ├── product_sales.png       
 │   ├── size_analysis.png
 │   └── refund_analysis.png
 │
